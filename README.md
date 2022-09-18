@@ -1,4 +1,4 @@
-##Responsive Travel Website With HTML, CSS, and JavaScript
+Responsive Travel Website With HTML, CSS, and JavaScript
 
 > Flexbox, Grid, Animations on Scroll.
 
